@@ -42,7 +42,7 @@ def matrix_lookup(matrix, row, column)
   # Return the matrix's content at that row and and column
   storage_room =[
     ["Eggplant","Grapefruit","Oranges","Pineapple","Watermelon"],
-    ["Asparagus","Avocadoes","Grapes","Potatoes","Strawberries"]
+    ["Asparagus","Potatoes","Grapes","Avocadoes","Strawberries"]
     ]
   storage_room[1][1]
 end
